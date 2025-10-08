@@ -1,0 +1,94 @@
+^https?://([A-Za-z0-9.-]*\.)?oca\.telemetry\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?oca\.telemetry\.microsoft\.com\.nsatc\.net/
+^https?://([A-Za-z0-9.-]*\.)?vortex-sandbox\.data\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?pre\.footprintpredict\.com/
+^https?://([A-Za-z0-9.-]*\.)?i1\.services\.social\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?i1\.services\.social\.microsoft\.com\.nsatc\.net/
+^https?://([A-Za-z0-9.-]*\.)?telemetry\.appex\.bing\.net/
+^https?://([A-Za-z0-9.-]*\.)?telemetry\.urs\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?cs1\.wpc\.v0cdn\.net/
+^https?://([A-Za-z0-9.-]*\.)?statsfe1\.ws\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?a-0001\.a-msedge\.net/
+^https?://([A-Za-z0-9.-]*\.)?a-0002\.a-msedge\.net /
+^https?://([A-Za-z0-9.-]*\.)?a-0003\.a-msedge\.net/
+^https?://([A-Za-z0-9.-]*\.)?a-0004\.a-msedge\.net /
+^https?://([A-Za-z0-9.-]*\.)?a-0005\.a-msedge\.net /
+^https?://([A-Za-z0-9.-]*\.)?a-0006\.a-msedge\.net /
+^https?://([A-Za-z0-9.-]*\.)?a-0007\.a-msedge\.net/
+^https?://([A-Za-z0-9.-]*\.)?a-0008\.a-msedge\.net /
+^https?://([A-Za-z0-9.-]*\.)?a-0009\.a-msedge\.net /
+^https?://([A-Za-z0-9.-]*\.)?a-msedge\.net /
+^https?://([A-Za-z0-9.-]*\.)?a\.ads1\.msn\.com /
+^https?://([A-Za-z0-9.-]*\.)?a\.ads2\.msads\.net/
+^https?://([A-Za-z0-9.-]*\.)?a\.ads2\.msn\.com /
+^https?://([A-Za-z0-9.-]*\.)?a\.rad\.msn\.com /
+^https?://([A-Za-z0-9.-]*\.)?ac3\.msn\.com /
+^https?://([A-Za-z0-9.-]*\.)?ad\.doubleclick\.net /
+^https?://([A-Za-z0-9.-]*\.)?adnexus\.net adnxs\.com/
+^https?://([A-Za-z0-9.-]*\.)?ads\.msn\.com /
+^https?://([A-Za-z0-9.-]*\.)?ads1\.msads\.net /
+^https?://([A-Za-z0-9.-]*\.)?ads1\.msn\.com /
+^https?://([A-Za-z0-9.-]*\.)?aidps\.atdmt\.com /
+^https?://([A-Za-z0-9.-]*\.)?aka-cdn-ns\.adtech\.de/
+^https?://([A-Za-z0-9.-]*\.)?az361816\.vo\.msecnd\.net /
+^https?://([A-Za-z0-9.-]*\.)?az512334\.vo\.msecnd\.net /
+^https?://([A-Za-z0-9.-]*\.)?b\.ads1\.msn\.com/
+^https?://([A-Za-z0-9.-]*\.)?b\.ads2\.msads\.net /
+^https?://([A-Za-z0-9.-]*\.)?b\.rad\.msn\.com /
+^https?://([A-Za-z0-9.-]*\.)?bs\.serving-sys\.com /
+^https?://([A-Za-z0-9.-]*\.)?c\.atdmt\.com /
+^https?://([A-Za-z0-9.-]*\.)?c\.msn\.com/
+^https?://([A-Za-z0-9.-]*\.)?cdn\.atdmt\.com /
+^https?://([A-Za-z0-9.-]*\.)?cds26\.ams9\.msecn\.net /
+^https?://([A-Za-z0-9.-]*\.)?choice\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?choice\.microsoft\.com\.nsatc\.net/
+^https?://([A-Za-z0-9.-]*\.)?compatexchange\.cloudapp\.net /
+^https?://([A-Za-z0-9.-]*\.)?corp\.sts\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?corpext\.msitadfs\.glbdns2\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?cs1\.wpc\.v0cdn\.net /
+^https?://([A-Za-z0-9.-]*\.)?db3aqu\.atdmt\.com /
+^https?://([A-Za-z0-9.-]*\.)?df\.telemetry\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?diagnostics\.support\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?ec\.atdmt\.com /
+^https?://([A-Za-z0-9.-]*\.)?feedback\.microsoft-hohm\.com/
+^https?://([A-Za-z0-9.-]*\.)?feedback\.search\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?feedback\.windows\.com /
+^https?://([A-Za-z0-9.-]*\.)?flex\.msn\.com /
+^https?://([A-Za-z0-9.-]*\.)?g\.msn\.com /
+^https?://([A-Za-z0-9.-]*\.)?h1\.msn\.com/
+^https?://([A-Za-z0-9.-]*\.)?i1\.services\.social\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?lb1\.www\.ms\.akadns\.net /
+^https?://([A-Za-z0-9.-]*\.)?live\.rads\.msn\.com /
+^https?://([A-Za-z0-9.-]*\.)?m\.adnxs\.com /
+^https?://([A-Za-z0-9.-]*\.)?msedge\.net/
+^https?://([A-Za-z0-9.-]*\.)?msftncsi\.com /
+^https?://([A-Za-z0-9.-]*\.)?msnbot-65-55-108-23\.search\.msn\.com /
+^https?://([A-Za-z0-9.-]*\.)?msntest\.serving-sys\.com/
+^https?://([A-Za-z0-9.-]*\.)?oca\.telemetry\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?oca\.telemetry\.microsoft\.com\.nsatc\.net /
+^https?://([A-Za-z0-9.-]*\.)?preview\.msn\.com rad\.live\.com /
+^https?://([A-Za-z0-9.-]*\.)?rad\.msn\.com redir\.metaservices\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?schemas\.microsoft\.akadns\.net  /
+^https?://([A-Za-z0-9.-]*\.)?secure\.adnxs\.com /
+^https?://([A-Za-z0-9.-]*\.)?secure\.flashtalking\.com/
+^https?://([A-Za-z0-9.-]*\.)?settings-sandbox\.data\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?settings-win\.data\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?sls\.update\.microsoft\.com\.akadns\.net /
+^https?://([A-Za-z0-9.-]*\.)?sqm\.df\.telemetry\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?sqm\.telemetry\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?sqm\.telemetry\.microsoft\.com\.nsatc\.net /
+^https?://([A-Za-z0-9.-]*\.)?static\.2mdn\.net/
+^https?://([A-Za-z0-9.-]*\.)?statsfe1\.ws\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?statsfe2\.ws\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?telecommand\.telemetry\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?telecommand\.telemetry\.microsoft\.com\.nsatc\.net /
+^https?://([A-Za-z0-9.-]*\.)?telemetry\.microsoft\.com telemetry\.urs\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?vortex-bn2\.metron\.live\.com\.nsatc\.net /
+^https?://([A-Za-z0-9.-]*\.)?vortex-cy2\.metron\.live\.com\.nsatc\.net/
+^https?://([A-Za-z0-9.-]*\.)?vortex-sandbox\.data\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?vortex-win\.data\.microsoft\.com /
+^https?://([A-Za-z0-9.-]*\.)?vortex\.data\.microsoft\.com/
+^https?://([A-Za-z0-9.-]*\.)?watson\.live\.com /
+^https?://([A-Za-z0-9.-]*\.)?www\.msftncsi\.com /
+^https?://([A-Za-z0-9.-]*\.)?ssw\.live\.com /
+^https?://([A-Za-z0-9.-]*\.)?a-msedge\.net/
